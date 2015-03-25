@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="exam">
+    <output-path>K:/asdf</output-path>
+    <root id="archive" name="exam.jar">
+      <element id="module-output" name="exam1" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/webapp" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="K:/asdf/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
